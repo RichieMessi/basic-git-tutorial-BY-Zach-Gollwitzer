@@ -1,2 +1,4 @@
 some text
-some more text for testing 
+some more text for testing
+
+adding text from local repository
